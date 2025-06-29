@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Hello! I'm Mohammad Samara
 
-<!--
-**MohammadSamara9/MohammadSamara9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Computer Engineering student at Birzeit University**  
+💡 Passionate about programming, problem solving, and building useful tools.  
+📚 Currently improving my skills in **C, Python**, and system-level development.  
+🌱 I’m always eager to learn something new and contribute to open-source!
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tech Stack
+
+- 💻 C, Python
+- 🛠️ Git & GitHub
+
+
+---
+
+## 📫 How to Reach Me
+
+- 📧 Email: `mo7amad7sa7ara@gmail.com`
+- 🌐 GitHub: [@MohammadSamara9](https://github.com/MohammadSamara9)
+
+---
+
+> "The best way to learn is to build." 🚀  
