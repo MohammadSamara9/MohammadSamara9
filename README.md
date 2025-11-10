@@ -1,32 +1,48 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/MohammadSamara9/MohammadSamara9/main/assets/avatar.gif"
-       alt="Mohamad Samara - animated avatar" width="140" height="140" />
-</p>
-
-<h1 align="center">Mohamad Samara</h1>
+<h1 align="center">👋 Hi, I'm Mohamad Samara</h1>
 
 <p align="center">
-  Computer Engineer • Software Development • AI-integrated Solutions • Networks
+  Computer Engineer focused on software development and creating practical, real-world solutions.  
+  <br>I enjoy building projects and solving problems with clean and maintainable code.  
+  <br>My interests include integrating software with AI concepts, along with exploring computer networks. 🚀
 </p>
 
 ---
 
-### Language Progress
-| Language | Level |
-|:--|:--|
-| Python | ![20%](https://progress-bar.dev/70/?title=Python) |
-| Dart   | ![15%](https://progress-bar.dev/55/?title=Dart) |
-| Java   | ![40%](https://progress-bar.dev/45/?title=Java) |
-| C      | ![25%](https://progress-bar.dev/60/?title=C) |
+### 🌱 About Me  
+- 🧠 Strengthening my knowledge in **OOP**, **Data Structures**, and **Algorithms**
+- 💻 Working with **Python**, **Dart**, **Java**, and **C**
+- 🔧 Currently Developing: **Software Testing (QA Manual → Automation)**
+- 🎯 Goal: Grow as a software engineer and contribute to impactful projects
 
-### Tech Snapshot
-<p>
-  <img src="https://img.shields.io/badge/Python-3.12+-informational" />
-  <img src="https://img.shields.io/badge/Dart-Ready-informational" />
-  <img src="https://img.shields.io/badge/Java-Working-informational" />
-  <img src="https://img.shields.io/badge/C-System%20Basics-informational" />
-  <img src="https://img.shields.io/badge/QA-Manual%20%E2%86%92%20Automation-informational" />
+---
+
+### 🛠 Tech Stack
+
+| Languages | Tools | Areas of Interest |
+|---------|-------|----------------|
+| Python · Dart · Java · C | Git · GitHub · VS Code | AI Integration · Networks · Software Development |
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MohammadSamara9&show_icons=true&theme=tokyonight" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadSamara9&layout=compact&theme=tokyonight" height="165" />
 </p>
 
-> Currently developing: **Software Testing (QA Manual → Automation)**  
-> I enjoy building projects and solving problems.
+---
+
+### 🧩 Contribution Graph Snake 🐍
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MohammadSamara9/MohammadSamara9/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
+### 📬 Contact
+- **Email:** `mo7amad7sa7ara@gmail.com`
+- **GitHub:** [@MohammadSamara9](https://github.com/MohammadSamara9)
+
+---
+
+<p align="center"><i>"The best way to learn is to build."</i> 🚀</p>
