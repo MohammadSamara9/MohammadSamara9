@@ -19,3 +19,8 @@ My interests include integrating software with AI concepts, along with exploring
 - **GitHub:** @MohammadSamara9
 
 > "The best way to learn is to build." 🚀
+
+### 🧩 Contribution Graph Snake
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MohammadSamara9/MohammadSamara9/output/github-contribution-grid-snake.svg" />
+</p>
