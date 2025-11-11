@@ -9,8 +9,8 @@
 ## About me
 
 <picture>
-  <!-- ملاحظة: رابط الـ GIF أدناه مؤقت. من الأفضل رفع الصورة إلى الريبو (مثلاً: assets/profile.gif)
-       ثم استبدال src بالرابط الخام Raw: https://raw.githubusercontent.com/USERNAME/REPO/main/assets/profile.gif -->
+  
+
   <img align="right" src="https://github-production-user-asset-6210df.s3.amazonaws.com/102483320/247709011-72d86498-3898-418d-b1b4-b3dfc9088f55.gif" width="260" alt="profile"/>
 </picture>
 
