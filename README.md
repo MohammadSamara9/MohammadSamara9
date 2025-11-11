@@ -18,7 +18,7 @@
   <img src="https://komarev.com/ghpvc/?username=MohammadSamara9&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
-- 🎓 I’m a Computer Engineering Student @ Birzeit University  
+- 🎓 I’m a Computer Engineering Student @ Birzeit University.  
 - 🧠 Strengthening my knowledge in **OOP**, **Data Structures**, and **Algorithms**  
 - 💻 Working with **Python**, **Dart**, **Java**, and **C**  
 - 🔧 Currently Developing: **Software Testing (QA Manual → Automation)**  
