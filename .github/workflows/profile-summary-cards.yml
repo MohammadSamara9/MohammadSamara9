@@ -11,8 +11,9 @@ permissions:
 jobs:
   build:
     runs-on: ubuntu-latest
+
     steps:
-      - name: Checkout repository
+      - name: Checkout
         uses: actions/checkout@v4
 
       - name: Generate summary cards
@@ -21,5 +22,35 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           USERNAME: MohammadSamara9
-          BRANCH_NAME: profile-summary-card-output
-          AUTO_PUSH: true
+          UTC_OFFSET: 2
+
+      - name: Push cards to output branch
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          # create orphan branch to store generated assets
+          git checkout --orphan profile-summary-card-output
+
+          # remove everything except generated cards
+          git rm -rf . || true
+
+          # copy generated cards from workspace (they are created by the action)
+          # The action writes to ./profile-summary-card-output by default in newer versions,
+          # and to ./profile-summary-card-output or ./profile-summary-cards depending on release.
+          # We'll copy whatever exists.
+          if [ -d "profile-summary-card-output" ]; then
+            cp -r profile-summary-card-output/* .
+          elif [ -d "profile-summary-cards" ]; then
+            cp -r profile-summary-cards/* .
+          elif [ -d ".github/profile-summary-cards" ]; then
+            cp -r .github/profile-summary-cards/* .
+          else
+            echo "No generated cards folder found."
+            ls -la
+            exit 1
+          fi
+
+          git add .
+          git commit -m "Update profile summary cards" || echo "No changes to commit"
+          git push -f origin profile-summary-card-output
