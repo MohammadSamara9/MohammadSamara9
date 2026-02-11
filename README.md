@@ -66,14 +66,12 @@
 
 <div align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=MohammadSamara9&include_all_commits=true&show_icons=true&line_height=22&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40"
-    width="450"
-    alt="GitHub Stats"
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MohammadSamara9&show_icons=true&theme=tokyonight"
+    height="165"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadSamara9&layout=compact&line_height=22&title_color=7A7ADB&text_color=D3D3D3&bg_color=0,000000,130F40"
-    width="375"
-    alt="Top Languages"
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MohammadSamara9&layout=compact&theme=tokyonight"
+    height="165"
   />
 </div>
 
