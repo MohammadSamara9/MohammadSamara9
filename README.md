@@ -9,8 +9,6 @@
 ## About me
 
 <picture>
-  
-
   <img align="right" src="https://github-production-user-asset-6210df.s3.amazonaws.com/102483320/247709011-72d86498-3898-418d-b1b4-b3dfc9088f55.gif" width="260" alt="profile"/>
 </picture>
 
@@ -65,28 +63,46 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> GitHub Stats
 
 <div align="center">
+  <!-- Main Stats (stable mirror + cache buster) -->
   <img
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MohammadSamara9&show_icons=true&theme=tokyonight"
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MohammadSamara9&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=7200&v=1"
     height="165"
+    alt="GitHub Stats"
   />
+
+  <!-- Top Languages (stable mirror + correct endpoint + cache buster) -->
   <img
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MohammadSamara9&layout=compact&theme=tokyonight"
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MohammadSamara9&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=7200&v=1"
     height="165"
+    alt="Top Languages"
   />
 </div>
+
+<!-- Fallback (uncomment if the above ever fails) -->
+<!--
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MohammadSamara9&show_icons=true&theme=tokyonight&hide_border=true&v=1" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadSamara9&layout=compact&theme=tokyonight&hide_border=true&v=1" height="165" />
+</div>
+-->
 
 ---
 
 ## Connect with me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/mohammad-samara" target="blank">
+  <!-- LinkedIn (updated link) -->
+  <a href="https://www.linkedin.com/in/mohammed-samara-7576063a9?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
+
+  <!-- Facebook (kept as you have it) -->
   <a href="https://facebook.com/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
   </a>
-  <a href="https://instagram.com/" target="blank">
+
+  <!-- Instagram (updated link) -->
+  <a href="https://www.instagram.com/mo7amad.samara?igsh=MWVyM3I5OXd6bGty&utm_source=qr" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
 </p>
