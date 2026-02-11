@@ -19,10 +19,9 @@
 </p>
 
 - 🎓 I’m a Computer Engineering Student @ Birzeit University.  
-- 🧠 Strengthening my knowledge in **OOP**, **Data Structures**, and **Algorithms**  
-- 💻 Working with **Python**, **Dart**, **Java**, and **C**  
-- 🔧 Currently Developing: **Software Testing (QA Manual → Automation)**  
-- 🎯 Goal: Grow as a software engineer and contribute to impactful projects  
+- 🧠 Applying OOP and Data Structures while developing projects in Python (AI), Dart, Java, and C   
+- 🔧 Currently Developing: AI Programming with Python & TensorFlow (Nanodegree) 
+- 🎯 Goal: Engineer scalable software systems enhanced with AI to solve real-world problems
 
 ---
 
