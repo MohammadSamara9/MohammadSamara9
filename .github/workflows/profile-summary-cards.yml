@@ -2,8 +2,11 @@ name: GitHub Profile Summary Cards
 
 on:
   schedule:
-    - cron: "0 0 * * *"   # every day
+    - cron: "0 0 * * *"
   workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   build:
@@ -15,4 +18,5 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           USERNAME: MohammadSamara9
-          THEME: github_dark
+          BRANCH_NAME: profile-summary-card-output
+          AUTO_PUSH: true
