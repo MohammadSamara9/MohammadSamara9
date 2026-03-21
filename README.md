@@ -18,7 +18,7 @@
 
 - 🎓 I’m a Computer Engineering Student @ Birzeit University.  
 - 🧠 Applying OOP and Data Structures while developing projects in Python (AI), Dart, Java, and C   
-- 🔧 Currently Developing: AI Programming with Python & TensorFlow (Nanodegree) 
+- 🔧 Currently Developing: Backend  & AI 
 - 🎯 Goal: Engineer scalable software systems enhanced with AI to solve real-world problems
 
 ---
@@ -60,23 +60,12 @@
 
 ---
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> GitHub Stats
+## 📊 GitHub Stats
 
-<div align="center">
-  <!-- Main Stats (stable mirror + cache buster) -->
-  <img
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MohammadSamara9&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=7200&v=1"
-    height="165"
-    alt="GitHub Stats"
-  />
-
-  <!-- Top Languages (stable mirror + correct endpoint + cache buster) -->
-  <img
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MohammadSamara9&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=7200&v=1"
-    height="165"
-    alt="Top Languages"
-  />
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=MohammadSamara9&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadSamara9&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</p>
 
 <!-- Fallback (uncomment if the above ever fails) -->
 <!--
