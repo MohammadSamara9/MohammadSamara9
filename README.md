@@ -67,7 +67,7 @@
 | Project | Description | Tech |
 |---|---|---|
 | [agents-learning](https://github.com/MohammadSamara9/agents-learning) | My hands-on journey learning AI agents and multi-agent systems | Git · SQL · Python |
-| [data-structures-in-c](https://github.com/MohammadSamara9/data-structures-in-c) | 23 solved problems on linked lists, stacks, queues, trees and heaps | C |
+| [data-structures-in-c](https://github.com/MohammadSamara9/data-structures-in-c) | 3 course projects (task managers, road network MST), lecture examples and 23 solved problems | C |
 | [C-Learning-Journey](https://github.com/MohammadSamara9/C-Learning-Journey) | Exercises from learning C | C |
 | [java-practice](https://github.com/MohammadSamara9/java-practice) | Java and OOP practice | Java |
 | [dart-learning](https://github.com/MohammadSamara9/dart-learning) | Exercises from learning Dart | Dart |
